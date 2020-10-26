@@ -95,3 +95,5 @@ types:
 kramdown:
   auto_ids: true
   
+
+theme: jekyll-theme-leap-day
